@@ -1,0 +1,8 @@
+# For running Jupyter notebooks
+jupyterlab
+
+# For downloading tiles from OSM
+requests
+
+# For concatenating image tiles
+pillow
